@@ -34,7 +34,7 @@ This is the ulimate book list. It's goal is very simple. It aims to contain **al
 * *The Prince*, by Niccolò Machiavelli
 * *An Inquiry into the Nature and Causes of the Wealth of Nations*, by Adam Smith
 
-## Psychology/Self-Help 
+### Psychology/Self-Help 
 
 * *How to Win Friends and Influence People*, by Dale Carnegie
 * *12 Rules For Life: An Antidote To Chaos*, by Jordan B. Peterson
