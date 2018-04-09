@@ -28,6 +28,7 @@
 
 * *The Road to Serfdom*, by Friedrich von Hayek
 * *The Prince*, by Niccolò Machiavelli
+* *The Road to Wigan Pier*, by George Orwell
 * *An Inquiry into the Nature and Causes of the Wealth of Nations*, by Adam Smith
 
 ## Psychology/Self-Help 
